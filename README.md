@@ -1,4 +1,4 @@
-# daily-planner-app
+# Daily Planner App
 ## Description
 
 In this project my main golas were to
@@ -15,6 +15,7 @@ In this project my main golas were to
 
 - Persist events between refreshes of a page.
 
+https://dani-her.github.io/daily-planner-app/
 
 ![image](https://user-images.githubusercontent.com/118456219/225694806-754b1100-3c15-47d4-ae2d-dc8b225abfd2.png)
 ![image](https://user-images.githubusercontent.com/118456219/225694884-e0720fc6-3d5d-4e03-bbee-f110e953349e.png)
